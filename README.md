@@ -10,3 +10,9 @@ Instructores:
 - [Dra. Leticia Vega Alvarado]()
 
 Para descargar este material da click en el botón **Code** y selecciona la opción **Download zip**. Si lo prefieres, puedes clonar el repositorio en tu computadora usando git clone desde tu terminal.
+
+De manera alternativa, puedes correr el siguiente código en tu sesión de RStudio:
+
+```
+usethis::use_course("ComunidadBioInfo/minicurso_mar_2021")
+```
